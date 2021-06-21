@@ -1,1 +1,1 @@
-# infinite-game
+my infinite colorful trex game
